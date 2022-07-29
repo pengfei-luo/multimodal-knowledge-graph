@@ -30,3 +30,10 @@ Xiang Chen, Ningyu Zhang, Lei Li, Shumin Deng, Chuanqi Tan, Changliang Xu, Fei H
 
 6. **(KG-Bert)** 	Liang Yao, Chengsheng Mao, Yuan Luo:
 **KG-BERT: BERT for Knowledge Graph Completion.** CoRR abs/1909.03193 (2019)
+
+
+## Multi-modal Knowledge Graph Alignment
+
+
+
+## Multi-modal Entity Linking
