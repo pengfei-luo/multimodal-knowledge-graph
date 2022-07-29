@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-# multimodal-knowledge-graph-papers
-A collection of resources on multimodal knowledge graph, including datasets, papers and contests.
-=======
 
 <div align=center>
     <img style="width: 300px;" src="assets/imgs/mmkg.png" alt='mmkg'/> 
-    <div align=center style='font-size: 30px;'>Multi-modal Knowledge Graph</div>
 </div>  
+<div align=center style='font-size: 30px;'>Multi-modal Knowledge Graph</div>
 
 This repo is a collection of resources on multimodal knowledge graph, including datasets, research papers and contests.
- 
+
 
 ## Content
 
@@ -34,13 +30,3 @@ Xiang Chen, Ningyu Zhang, Lei Li, Shumin Deng, Chuanqi Tan, Changliang Xu, Fei H
 
 6. **(KG-Bert)** 	Liang Yao, Chengsheng Mao, Yuan Luo:
 **KG-BERT: BERT for Knowledge Graph Completion.** CoRR abs/1909.03193 (2019)
-
-
-
-
-## Multi-modal Knowledge Graph Alignment
-
-
-
-## Multi-modal Entity Linking
->>>>>>> master
