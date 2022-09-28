@@ -49,6 +49,23 @@ CoRR abs/1909.03193 (2019)
 
 
 ## Multi-modal Entity Aligment
+1. 	Liyi Chen, Zhi Li, Yijun Wang, Tong Xu, Zhefeng Wang, Enhong Chen:
+**MMEA: Entity Alignment for Multi-modal Knowledge Graph.** KSEM (1) 2020: 134-147
+
+2. Hao Guo, Jiuyang Tang, Weixin Zeng, Xiang Zhao, Li Liu:
+**Multi-modal entity alignment in hyperbolic space.** Neurocomputing 461: 598-607 (2021)
+
+3. 	Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier:
+**Visual Pivoting for (Unsupervised) Entity Alignment.** AAAI 2021: 4257-4266
+
+4. Liyi Chen, Zhi Li, Tong Xu, Han Wu, Zhefeng Wang, Nicholas Jing Yuan, Enhong Chen:
+**Multi-modal Siamese Network for Entity Alignment.** KDD 2022: 118-126
+
+5. 	Bo Cheng, Jia Zhu, Meimei Guo:
+**MultiJAF: Multi-modal joint entity alignment framework for multi-modal knowledge graph.** Neurocomputing 500: 581-591 (2022)
+
+6. Zhenxi Lin, Ziheng Zhang, Meng Wang, Yinghui Shi, Xian Wu, Yefeng Zheng:
+**Multi-modal Contrastive Representation Learning for Entity Alignment.** CoRR abs/2209.00891 (2022)
 
 
 
