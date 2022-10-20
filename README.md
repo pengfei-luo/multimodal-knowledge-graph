@@ -9,14 +9,16 @@ This repo is a collection of resources on multimodal knowledge graph, including 
 
 ## Content
 
-- [Multi-modal Knowledge Graph Completion](#multi-modal-knowledge-graph-completion)
+- [Multimodal Knowledge Graph Completion](#multi-modal-knowledge-graph-completion)
 
-- [Multi-modal Entity Aligment](#multi-modal-entity-aligment)
+- [Multimodal Entity Aligment](#multi-modal-entity-aligment)
 
-- [Multi-modal Entity Linking](#multi-modal-entity-linking)
+- [Multimodal Entity Linking](#multi-modal-entity-linking)
+
+- [Multimodal Named Entity Recognition](#multimodal-named-entity-recognition)
 
 
-## Multi-modal Knowledge Graph Completion
+## Multimodal Knowledge Graph Completion
 
 1. **(TransAE)** Zikang Wang, Linjing Li, Qiudan Li, Daniel Zeng:
 **Multimodal Data Enhanced Representation Learning for Knowledge Graphs**. 
@@ -48,7 +50,7 @@ Liang Yao, Chengsheng Mao, Yuan Luo:
 CoRR abs/1909.03193 (2019)
 
 
-## Multi-modal Entity Aligment
+## Multimodal Entity Aligment
 1. 	Liyi Chen, Zhi Li, Yijun Wang, Tong Xu, Zhefeng Wang, Enhong Chen:
 **MMEA: Entity Alignment for Multi-modal Knowledge Graph.** KSEM (1) 2020: 134-147
 
@@ -69,7 +71,7 @@ CoRR abs/1909.03193 (2019)
 
 
 
-## Multi-modal Entity Linking
+## Multimodal Entity Linking
 1. **(DZMNED)**
 Seungwhan Moon, Leonardo Neves, Vitor Carvalho:
 **Multimodal Named Entity Disambiguation for Noisy Social Media Posts.** ACL (1) 2018: 2000-2008
@@ -94,3 +96,25 @@ Seungwhan Moon, Leonardo Neves, Vitor Carvalho:
 8. Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao: **WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types.** ACL (1) 2022: 4785-4797
 
 9. Peng Wang, Jiangheng Wu, Xiaohang Chen: **Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training.** SIGIR 2022: 938-948
+
+
+## Multimodal Named Entity Recognition
+
+1. Lin Sun, Jiquan Wang, Kai Zhang, Yindu Su, Fangsheng Weng:
+**RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER.** AAAI 2021: 13860-13868
+
+2. Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Jiabo Ye, Ming Yan, Yanghua Xiao:
+**PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition.** DASFAA (3) 2022: 297-305
+
+3. 	Meysam Asgari-Chenaghlu, Mohammad-Reza Feizi-Derakhshi, Leili Farzinvash, M. A. Balafar, Cina Motamed:
+**CWI: A multimodal deep learning approach for named entity recognition from social media using character, word and image features.** Neural Comput. Appl. 34(3): 1905-1922 (2022)
+
+4. Bo Xu, Shizhou Huang, Chaofeng Sha, Hongya Wang:
+**MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition.** WSDM 2022: 1215-1223
+
+5. 	Xiang Chen, Ningyu Zhang, Lei Li, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen:
+**Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction.** CoRR abs/2205.03521 (2022)
+
+6. Xuwu Wang, Jiabo Ye, Zhixu Li, Junfeng Tian, Yong Jiang, Ming Yan, Ji Zhang, Yanghua Xiao:
+**CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention.** ICME 2022: 1-6
+
