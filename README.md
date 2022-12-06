@@ -97,6 +97,13 @@ Seungwhan Moon, Leonardo Neves, Vitor Carvalho:
 
 9. Peng Wang, Jiangheng Wu, Xiaohang Chen: **Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training.** SIGIR 2022: 938-948
 
+10. **\[Dataset\]** Jingru Gan, Jinchang Luo, Haiwei Wang, Shuhui Wang, Wei He, Qingming Huang:
+**Multimodal Entity Linking: A New Dataset and A Baseline.** ACM Multimedia 2021CCF A: 993-1001
+
+11. **\[Dataset\]** Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao:
+WikiDiverse: **A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types**. ACL (1) 2022: 4785-4797
+
+
 
 ## Multimodal Named Entity Recognition
 
