@@ -17,6 +17,8 @@ This repo is a collection of resources on multimodal knowledge graph, including 
 
 - [Multimodal Named Entity Recognition](#multimodal-named-entity-recognition)
 
+- [Multimodal Event Extraction](#multimodal-event-extraction)
+
 
 ## Multimodal Knowledge Graph Completion
 
@@ -125,3 +127,22 @@ WikiDiverse: **A Multimodal Entity Linking Dataset with Diversified Contextual T
 6. Xuwu Wang, Jiabo Ye, Zhixu Li, Junfeng Tian, Yong Jiang, Ming Yan, Ji Zhang, Yanghua Xiao:
 **CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention.** ICME 2022: 1-6
 
+## Multimodal Event Extraction
+
+1. Meihan Tong, Shuai Wang, Yixin Cao, Bin Xu, Juanzi Li, Lei Hou, Tat-Seng Chua:
+**Image Enhanced Event Detection in News Articles.** AAAI 2020: 9040-9047
+
+2. Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, Shih-Fu Chang:
+**Cross-media Structured Common Space for Multimedia Event Extraction.** ACL 2020: 2557-2568
+
+3. Linhai Zhang, Deyu Zhou, Yulan He, Zeng Yang:
+**MERL: Multimodal Event Representation Learning in Heterogeneous Embedding Spaces.** AAAI 2021: 14420-14427
+
+4. Guozheng Li, Peng Wang, Jiafeng Xie, Ruilong Cui, Zhenkai Deng:
+**FEED: A Chinese Financial Event Extraction Dataset Constructed by Distant Supervision.** IJCKG 2021: 45-53
+
+5. Manling Li, Ruochen Xu, Shuohang Wang, Luowei Zhou, Xudong Lin, Chenguang Zhu, Michael Zeng, Heng Ji, Shih-Fu Chang:
+**CLIP-Event: Connecting Text and Images with Event Structures.** CVPR 2022: 16399-16408
+
+6. Jian Liu, Yufeng Chen, Jinan Xu:
+**Multimedia Event Extraction From News With a Unified Contrastive Learning Framework.** ACM Multimedia 2022: 1945-1953
