@@ -134,7 +134,7 @@ WikiDiverse: **A Multimodal Entity Linking Dataset with Diversified Contextual T
 **ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition.** NAACL-HLT 2022: 3176-3189
 
 9. Xinyu Wang, Jiong Cai, Yong Jiang, Pengjun Xie, Kewei Tu, Wei Lu:
-**Named Entity and Relation Extraction with Multi-Modal Retrieval.** EMNLP 2022: (Fundings)
+**Named Entity and Relation Extraction with Multi-Modal Retrieval.** EMNLP 2022: (Findings)
 
 10. Li Yuan, Yi Cai, Jin Wang, Qing Li:
 **Joint Multimodal Entity-Relation Extraction Based on Edge-enhanced Graph Alignment Network and Word-pair Relation Tagging**. AAAI 2023
