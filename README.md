@@ -100,7 +100,7 @@ Seungwhan Moon, Leonardo Neves, Vitor Carvalho:
 9. Peng Wang, Jiangheng Wu, Xiaohang Chen: **Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training.** SIGIR 2022: 938-948
 
 10. **\[Dataset\]** Jingru Gan, Jinchang Luo, Haiwei Wang, Shuhui Wang, Wei He, Qingming Huang:
-**Multimodal Entity Linking: A New Dataset and A Baseline.** ACM Multimedia 2021CCF A: 993-1001
+**Multimodal Entity Linking: A New Dataset and A Baseline.** ACM Multimedia 2021: 993-1001
 
 11. **\[Dataset\]** Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao:
 WikiDiverse: **A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types**. ACL (1) 2022: 4785-4797
@@ -112,32 +112,60 @@ WikiDiverse: **A Multimodal Entity Linking Dataset with Diversified Contextual T
 1. Seungwhan Moon, Leonardo Neves, Vitor Carvalho:
 **Multimodal Named Entity Recognition for Short Social Media Posts.** NAACL-HLT 2018: 852-860
 
-2. Lin Sun, Jiquan Wang, Kai Zhang, Yindu Su, Fangsheng Weng:
+2. Qi Zhang, Jinlan Fu, Xiaoyu Liu, Xuanjing Huang:
+**Adaptive Co-attention Network for Named Entity Recognition in Tweets.** AAAI 2018: 5674-5681
+
+3. Di Lu, Leonardo Neves, Vitor Carvalho, Ning Zhang, Heng Ji:
+**Visual Attention Model for Name Tagging in Multimodal Social Media.** ACL (1) 2018: 1990-1999
+
+4. Omer Arshad, Ignazio Gallo, Shah Nawaz, Alessandro Calefati:
+**Aiding Intra-Text Representations with Visual Context for Multimodal Named Entity Recognition.** ICDAR 2019: 337-342
+
+5. Jianfei Yu, Jing Jiang, Li Yang, Rui Xia:
+**Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer.** ACL 2020: 3342-3352
+
+6. 	Changmeng Zheng, Zhiwei Wu, Tao Wang, Yi Cai, Qing Li:
+**Object-Aware Multimodal Named Entity Recognition in Social Media Posts With Adversarial Learning.** IEEE Trans. Multim. 23: 2520-2532 (2021)
+
+7. Lin Sun, Jiquan Wang, Kai Zhang, Yindu Su, Fangsheng Weng:
 **RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER.** AAAI 2021: 13860-13868
 
-3. Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Jiabo Ye, Ming Yan, Yanghua Xiao:
+8. Dong Zhang, Suzhong Wei, Shoushan Li, Hanqian Wu, Qiaoming Zhu, Guodong Zhou:
+**Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance.** AAAI 2021: 14347-14355
+
+9. Changmeng Zheng, Zhiwei Wu, Junhao Feng, Ze Fu, Yi Cai:
+**MNRE: A Challenge Multimodal Dataset for Neural Relation Extraction with Visual Evidence in Social Media Posts.** ICME 2021: 1-6
+
+10. Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Jiabo Ye, Ming Yan, Yanghua Xiao:
 **PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition.** DASFAA (3) 2022: 297-305
 
-4. 	Meysam Asgari-Chenaghlu, Mohammad-Reza Feizi-Derakhshi, Leili Farzinvash, M. A. Balafar, Cina Motamed:
+11. Meysam Asgari-Chenaghlu, Mohammad-Reza Feizi-Derakhshi, Leili Farzinvash, M. A. Balafar, Cina Motamed:
 **CWI: A multimodal deep learning approach for named entity recognition from social media using character, word and image features.** Neural Comput. Appl. 34(3): 1905-1922 (2022)
 
-5. Bo Xu, Shizhou Huang, Chaofeng Sha, Hongya Wang:
+12. Bo Xu, Shizhou Huang, Chaofeng Sha, Hongya Wang:
 **MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition.** WSDM 2022: 1215-1223
 
-6. 	Xiang Chen, Ningyu Zhang, Lei Li, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen:
-**Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction.** CoRR abs/2205.03521 (2022)
+13. Xiang Chen, Ningyu Zhang, Lei Li, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Luo Si, Huajun Chen:
+***Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction.** *CoRR abs/2205.03521 (2022)
 
-7. Xuwu Wang, Jiabo Ye, Zhixu Li, Junfeng Tian, Yong Jiang, Ming Yan, Ji Zhang, Yanghua Xiao:
-**CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention.** ICME 2022: 1-6
-
-8. Xinyu Wang, Min Gui, Yong Jiang, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Kewei Tu:
+14. Xinyu Wang, Min Gui, Yong Jiang, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Kewei Tu:
 **ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition.** NAACL-HLT 2022: 3176-3189
 
-9. Xinyu Wang, Jiong Cai, Yong Jiang, Pengjun Xie, Kewei Tu, Wei Lu:
-**Named Entity and Relation Extraction with Multi-Modal Retrieval.** EMNLP 2022: (Findings)
+15. Xuwu Wang, Jiabo Ye, Zhixu Li, Junfeng Tian, Yong Jiang, Ming Yan, Ji Zhang, Yanghua Xiao:
+**CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention.** ICME 2022: 1-6
 
-10. Li Yuan, Yi Cai, Jin Wang, Qing Li:
-**Joint Multimodal Entity-Relation Extraction Based on Edge-enhanced Graph Alignment Network and Word-pair Relation Tagging**. AAAI 2023
+16. Meihuizi Jia, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, Meng Chen, Xiaodong He:
+**Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition.** ACM Multimedia 2022: 3549-3558
+
+17. Fei Zhao, Chunhui Li, Zhen Wu, Shangyu Xing, Xinyu Dai:
+**Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER.** ACM Multimedia 2022: 3983-3992
+
+18. Li Yuan, Yi Cai, Jin Wang, Qing Li:
+**Joint Multimodal Entity-Relation Extraction Based on Edge-enhanced Graph Alignment Network and Word-pair Relation Tagging.** CoRR abs/2211.15028 (2022)
+
+19. Xinyu Wang, Jiong Cai, Yong Jiang, Pengjun Xie, Kewei Tu, Wei Lu:
+**Named Entity and Relation Extraction with Multi-Modal Retrieval.** EMNLP (Findings) 2022: 5925-5936
+
 
 ## Multimodal Event Extraction
 
