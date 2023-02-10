@@ -46,16 +46,18 @@ Liang, Shuang, et al.
 **Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion**. 
 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) (2022).
 
-6. Derong Xu, Tong Xu, Shiwei Wu, Jingbo Zhou, Enhong Chen:
-**Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion.** ACM Multimedia 2022: 3857-3866
-
-7. Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang:
-**OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport** NIPS 2022
-
 6. **(KG-Bert)**
 Liang Yao, Chengsheng Mao, Yuan Luo:
 **KG-BERT: BERT for Knowledge Graph Completion.** 
 CoRR abs/1909.03193 (2019)
+
+7. Derong Xu, Tong Xu, Shiwei Wu, Jingbo Zhou, Enhong Chen:
+**Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion.** ACM Multimedia 2022: 3857-3866
+
+8. Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang:
+**OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport** NIPS 2022
+
+
 
 
 ## Multimodal Entity Aligment
