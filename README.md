@@ -4,7 +4,7 @@
 </div>  
 <div align=center style='font-size: 30px;'>Multi-modal Knowledge Graph</div>
 
-This repo is a collection of resources on multimodal knowledge graph, including datasets, research papers and contests.
+This repository is a collection of resources on multimodal knowledge graph, including datasets, research papers and contests.
 
 
 ## Content
@@ -45,6 +45,12 @@ Appl. Intell. 52(7): 7480-7497 (2022)
 Liang, Shuang, et al. 
 **Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion**. 
 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) (2022).
+
+6. Derong Xu, Tong Xu, Shiwei Wu, Jingbo Zhou, Enhong Chen:
+**Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion.** ACM Multimedia 2022: 3857-3866
+
+7. Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang:
+**OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport** NIPS 2022
 
 6. **(KG-Bert)**
 Liang Yao, Chengsheng Mao, Yuan Luo:
