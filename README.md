@@ -57,6 +57,12 @@ CoRR abs/1909.03193 (2019)
 8. Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang:
 **OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport** NIPS 2022
 
+9. Yu Zhao, Xiangrui Cai, Yike Wu, Haiwei Zhang, Ying Zhang, Guoqing Zhao, Ning Jiang: **MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion.** EMNLP 2022: 10527-10536
+
+10. Ningyuan Huang, Yash R. Deshpande, Yibo Liu, Houda Alberts, Kyunghyun Cho, Clara Vania, Iacer Calixto:
+**Endowing Language Models with Multimodal Knowledge Graph Representations.** CoRR abs/2206.13163 (2022)
+
+
 
 
 
