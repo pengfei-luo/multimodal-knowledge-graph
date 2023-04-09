@@ -9,14 +9,11 @@ This repository is a collection of resources on multimodal knowledge graph, incl
 
 ## Content
 
-- [Multimodal Knowledge Graph Completion](#multi-modal-knowledge-graph-completion)
-
-- [Multimodal Entity Aligment](#multi-modal-entity-aligment)
-
-- [Multimodal Entity Linking](#multi-modal-entity-linking)
-
+- [Content](#content)
+- [Multimodal Knowledge Graph Completion](#multimodal-knowledge-graph-completion)
+- [Multimodal Entity Aligment](#multimodal-entity-aligment)
+- [Multimodal Entity Linking](#multimodal-entity-linking)
 - [Multimodal Named Entity Recognition](#multimodal-named-entity-recognition)
-
 - [Multimodal Event Extraction](#multimodal-event-extraction)
 
 
@@ -62,7 +59,7 @@ CoRR abs/1909.03193 (2019)
 10. Ningyuan Huang, Yash R. Deshpande, Yibo Liu, Houda Alberts, Kyunghyun Cho, Clara Vania, Iacer Calixto:
 **Endowing Language Models with Multimodal Knowledge Graph Representations.** CoRR abs/2206.13163 (2022)
 
-
+11. Yilin Wen, Biao Luo, Yuqian Zhao: **IMKGA-SM: Interpretable Multimodal Knowledge Graph Answer Prediction via Sequence Modeling.** CoRR abs/2301.02445 (2023)
 
 
 
