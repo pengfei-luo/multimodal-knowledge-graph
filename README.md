@@ -80,7 +80,10 @@ CoRR abs/1909.03193 (2019)
 **MultiJAF: Multi-modal joint entity alignment framework for multi-modal knowledge graph.** Neurocomputing 500: 581-591 (2022)
 
 6. Zhenxi Lin, Ziheng Zhang, Meng Wang, Yinghui Shi, Xian Wu, Yefeng Zheng:
-**Multi-modal Contrastive Representation Learning for Entity Alignment.** CoRR abs/2209.00891 (2022)
+**Multi-modal Contrastive Representation Learning for Entity Alignment.** COLING 2022: 2572-2584
+
+7. 	Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, Yuxia Geng, Jeff Z. Pan, Wenting Song, Huajun Chen: 
+**MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid.** CoRR abs/2212.14454 (2022)
 
 
 
