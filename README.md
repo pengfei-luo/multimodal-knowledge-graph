@@ -85,6 +85,9 @@ CoRR abs/1909.03193 (2019)
 7. 	Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, Yuxia Geng, Jeff Z. Pan, Wenting Song, Huajun Chen: 
 **MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid.** CoRR abs/2212.14454 (2022)
 
+8. Qian Li, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li:
+**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment.** CoRR abs/2304.01563 (2023)
+
 
 
 ## Multimodal Entity Linking
