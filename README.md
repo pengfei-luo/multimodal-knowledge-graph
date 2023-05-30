@@ -64,13 +64,13 @@ CoRR abs/1909.03193 (2019)
 
 
 ## Multimodal Entity Aligment
-1. 	Liyi Chen, Zhi Li, Yijun Wang, Tong Xu, Zhefeng Wang, Enhong Chen:
+1. Liyi Chen, Zhi Li, Yijun Wang, Tong Xu, Zhefeng Wang, Enhong Chen:
 **MMEA: Entity Alignment for Multi-modal Knowledge Graph.** KSEM (1) 2020: 134-147
 
 2. Hao Guo, Jiuyang Tang, Weixin Zeng, Xiang Zhao, Li Liu:
 **Multi-modal entity alignment in hyperbolic space.** Neurocomputing 461: 598-607 (2021)
 
-3. 	Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier:
+3. Fangyu Liu, Muhao Chen, Dan Roth, Nigel Collier:
 **Visual Pivoting for (Unsupervised) Entity Alignment.** AAAI 2021: 4257-4266
 
 4. Liyi Chen, Zhi Li, Tong Xu, Han Wu, Zhefeng Wang, Nicholas Jing Yuan, Enhong Chen:
@@ -82,12 +82,13 @@ CoRR abs/1909.03193 (2019)
 6. Zhenxi Lin, Ziheng Zhang, Meng Wang, Yinghui Shi, Xian Wu, Yefeng Zheng:
 **Multi-modal Contrastive Representation Learning for Entity Alignment.** COLING 2022: 2572-2584
 
-7. 	Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, Yuxia Geng, Jeff Z. Pan, Wenting Song, Huajun Chen: 
+7. Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, Yuxia Geng, Jeff Z. Pan, Wenting Song, Huajun Chen: 
 **MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid.** CoRR abs/2212.14454 (2022)
 
 8. Qian Li, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, Jiawei Sheng, Jianxin Li:
 **Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment.** CoRR abs/2304.01563 (2023)
 
+9. Ye Qian, Li Pan: **Leveraging multimodal features for knowledge graph entity alignment based on dynamic self-attention networks.** Expert Systems with Applications 2023: Volume 228, 120363
 
 
 ## Multimodal Entity Linking
