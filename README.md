@@ -90,6 +90,9 @@ CoRR abs/1909.03193 (2019)
 
 9. Ye Qian, Li Pan: **Leveraging multimodal features for knowledge graph entity alignment based on dynamic self-attention networks.** Expert Systems with Applications 2023: Volume 228, 120363
 
+10. Meng Wang, Yinghui Shi, Han Yang, Ziheng Zhang, Zhenxi Lin, Yefeng Zheng:
+**Probing the Impacts of Visual Context in Multimodal Entity Alignment.** Data Sci. Eng. 8(2): 124-134 (2023)
+
 
 ## Multimodal Entity Linking
 1. **(DZMNED)**
