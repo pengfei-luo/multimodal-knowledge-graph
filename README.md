@@ -126,6 +126,8 @@ Seungwhan Moon, Leonardo Neves, Vitor Carvalho:
 11. **\[Dataset\]** Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao:
 WikiDiverse: **A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types**. ACL (1) 2022: 4785-4797
 
+1.   Barry Menglong Yao, Yu Chen, Qifan Wang, Sijia Wang, Minqian Liu, Zhiyang Xu, Licheng Yu, Lifu Huang: **AMELI: Enhancing Multimodal Entity Linking with Fine-Grained Attributes.**  arXiv: 2305.14725
+
 
 
 ## Multimodal Named Entity Recognition
