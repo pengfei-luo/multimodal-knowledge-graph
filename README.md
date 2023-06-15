@@ -189,6 +189,9 @@ WikiDiverse: **A Multimodal Entity Linking Dataset with Diversified Contextual T
 19. Xinyu Wang, Jiong Cai, Yong Jiang, Pengjun Xie, Kewei Tu, Wei Lu:
 **Named Entity and Relation Extraction with Multi-Modal Retrieval.** EMNLP (Findings) 2022: 5925-5936
 
+20. Peipei Liu, Hong Li, Yimo Ren, Jie Liu, Shuaizong Si, Hongsong Zhu, Limin Sun:
+**A Novel Framework for Multimodal Named Entity Recognition with Multi-level Alignments.** CoRR abs/2305.08372
+
 
 ## Multimodal Event Extraction
 
