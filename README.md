@@ -61,6 +61,12 @@ CoRR abs/1909.03193 (2019)
 
 11. Yilin Wen, Biao Luo, Yuqian Zhao: **IMKGA-SM: Interpretable Multimodal Knowledge Graph Answer Prediction via Sequence Modeling.** CoRR abs/2301.02445 (2023)
 
+12. Kai Wang, Jianzhi Shao, Tao Zhang, Qijin Chen, Chengfu Huo:
+**MPKGAC: Multimodal Product Attribute Completion in E-commerce.** WWW (Companion Volume) 2023: 336-340
+
+13. Yingying Zhang, Quan Fang, Shengsheng Qian, Changsheng Xu:
+**Multi-modal Multi-relational Feature Aggregation Network for Medical Knowledge Representation Learning.** ACM Multimedia 2020: 3956-3965
+
 
 
 ## Multimodal Entity Aligment
