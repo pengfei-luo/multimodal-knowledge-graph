@@ -111,5 +111,5 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [MERL: Multimodal Event Representation Learning in Heterogeneous Embedding Spaces](https://ojs.aaai.org/index.php/AAAI/article/view/17695) | AAAI | 2021 |  
  [A Chinese Financial Event Extraction Dataset Constructed by Distant Supervision](https://dl.acm.org/doi/10.1145/3502223.3502229) | IJCKG | 2021 | [Github](https://github.com/seukgcode/FEED) 
  [CLIP-Event: Connecting Text and Images with Event Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9879585) | CVPR | 2022 | [Github](https://github.com/limanling/clip-event) 
- [Multimedia Event Extraction From News With a Unified Contrastive Learning Framework](https://dl.acm.org/doi/10.1145/3503161.3548132) | ACM MuLTIMEDIA | 2022 | [Github](https://github.com/jianliu-ml/Multimedia-EE) 
+ [Multimedia Event Extraction From News With a Unified Contrastive Learning Framework](https://dl.acm.org/doi/10.1145/3503161.3548132) | ACM Multimedia | 2022 | [Github](https://github.com/jianliu-ml/Multimedia-EE) 
 
