@@ -46,11 +46,12 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [Multi-modal Siamese Network for Entity Alignment](https://dl.acm.org/doi/10.1145/3534678.3539244) | KDD | 2022 | [Github](https://github.com/liyichen-cly/MSNEA) 
  [MultiJAF: Multi-modal joint entity alignment framework for multi-modal knowledge graph](https://www.sciencedirect.com/science/article/abs/pii/S0925231222006099) | Neurocomputing | 2022 |  
  [Multi-modal Contrastive Representation Learning for Entity Alignment](https://www.aclanthology.org/2022.coling-1.227.pdf) | COLING | 2022 | [Github](https://github.com/lzxlin/MCLEA) 
- [MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid](https://arxiv.org/pdf/2212.14454.pdf) | arXiv | 2022 | [Github](https://github.com/zjukg/MEAformer) 
  [Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment](https://dl.acm.org/doi/10.1145/3543507.3583328) | WWW | 2023 | [Github](https://github.com/xiaoqian19940510/ACK-MMEA) 
  [Leveraging multimodal features for knowledge graph entity alignment based on dynamic self-attention networks](https://linkinghub.elsevier.com/retrieve/pii/S0957417423008655) | Expert Systems with Applications | 2023 | [Github](https://github.com/Brown-Q/DSEA) 
  [Probing the Impacts of Visual Context in Multimodal Entity Alignment](https://link.springer.com/article/10.1007/s41019-023-00208-9) | Data Sci. Eng. | 2023 
-
+[MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid](https://arxiv.org/abs/2212.14454) | ACM Multimedia | 2023 | [Github](https://github.com/zjukg/MEAformer) 
+[Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651) | arXiv | 2023 |  
+[Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210) | ISWC | 2023 | [Github](https://github.com/zjukg/UMAEA) 
 
 
 
