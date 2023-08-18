@@ -56,7 +56,7 @@ This repository is a collection of resources on multimodal knowledge graph, incl
 
 
 ## Multimodal Entity Linking
-| **Title** | **Venue** | **Year** | **Code** |
+| Title | Venue | Year | Code |
 |---|---|---|---|
 | [Multimodal Named Entity Disambiguation for Noisy Social Media Posts](https://www.aclweb.org/anthology/P18-1186.pdf) | ACL | 2018 |  |
 | [Building a Multimodal Entity Linking Dataset From Tweets](https://www.aclweb.org/anthology/2020.lrec-1.528.pdf) | LREC | 2020 | [Github](https://github.com/OA256864/MEL_Tweets) |
@@ -68,10 +68,13 @@ This repository is a collection of resources on multimodal knowledge graph, incl
 | [WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types](https://www.aclanthology.org/2022.acl-long.328.pdf) | ACL | 2022 | [Github](https://github.com/wangxw5/wikiDiverse) |
 | [Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training](https://dl.acm.org/doi/10.1145/3477495.3531867) | SIGIR | 2022 | [Github](https://github.com/seukgcode/MEL-GHMFC) |
 | [Multimodal Entity Linking with Mixed Fusion Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_45) | DASFAA | 2022 | [Github](https://github.com/aanonymity/mert-mel) |
+| [Multimodal Knowledge Learning for Named Entity Disambiguation](https://aclanthology.org/2022.findings-emnlp.230.pdf) | EMNLP-findings | 2022 |  |
 | [AMELI: Enhancing Multimodal Entity Linking with Fine-Grained Attributes](https://arxiv.org/pdf/2305.14725.pdf) | arXiv | 2023 |  |
 | [Multi-Grained Multimodal Interaction Network for Entity Linking](https://arxiv.org/pdf/2307.09721.pdf) | KDD | 2023 | [Github](https://github.com/pengfei-luo/MIMIC) |
 | [Benchmarking Diverse-Modal Entity Linking with Generative Models](https://arxiv.org/pdf/2305.17337.pdf) | ACL-findings | 2023 |  |
 | [Generative Multimodal Entity Linking](https://arxiv.org/pdf/2306.12725.pdf) | arXiv | 2023 | [Github](https://github.com/HITsz-TMG/GEMEL) |
+| [Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities](https://arxiv.org/pdf/2302.11154.pdf) | ICCV | 2023 | [Github](https://github.com/open-vision-language/oven) |
+
 
 
 
