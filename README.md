@@ -83,28 +83,29 @@ This repository is a collection of resources on multimodal knowledge graph, incl
 
 ## Multimodal Named Entity Recognition
 
- **Title** | **Venue** | **Year** | **Code** 
----|---|---|---
- [Multimodal Named Entity Recognition for Short Social Media Posts](https://www.aclweb.org/anthology/N18-1078.pdf) | NAACL-HLT | 2018 |  
- [Adaptive Co-attention Network for Named Entity Recognition in Tweets](https://ojs.aaai.org/index.php/AAAI/article/view/11962/11821) | AAAI | 2018 |  
- [Visual Attention Model for Name Tagging in Multimodal Social Media](https://www.aclweb.org/anthology/P18-1185.pdf) | ACL | 2018 |  
- [Aiding Intra-Text Representations with Visual Context for Multimodal Named Entity Recognition](https://arxiv.org/pdf/1904.01356.pdf) | ICDAR | 2019 |  
- [Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://www.aclweb.org/anthology/2020.acl-main.306.pdf) | ACL | 2020 | [Github](https://github.com/jefferyYu/UMT) 
- [Object-Aware Multimodal Named Entity Recognition in Social Media Posts With Adversarial Learning](https://ieeexplore.ieee.org/document/9154571/) | IEEE Trans. Multim. | 2021 |  
- [RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER](https://arxiv.org/pdf/2102.02967.pdf) | AAAI | 2021 | [Github](https://github.com/Multimodal-NER/RpBERT) 
- [Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://ojs.aaai.org/index.php/AAAI/article/view/17687) | AAAI | 2021 | [Github](https://github.com/TransformersWsz/UMGF) 
- [MNRE: A Challenge Multimodal Dataset for Neural Relation Extraction with Visual Evidence in Social Media Posts](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428274) | ICME | 2021 | [Github](https://github.com/thecharm/MNRE) 
- [PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_24) | DASFAA | 2022 |  
- [CWI: A multimodal deep learning approach for named entity recognition from social media using character, word and image features](https://link.springer.com/article/10.1007/s00521-021-06488-4) | Neural Comput. Appl. | 2022 |  
- [MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition](https://dl.acm.org/doi/10.1145/3488560.3498475) | WSDM | 2022 | [Github](https://github.com/xubodhu/MAF) 
- [Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction](https://arxiv.org/pdf/2205.03521.pdf) | arXiv | 2022 | [Github](https://github.com/zjunlp/HVPNeT) 
- [ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition](https://www.aclanthology.org/2022.naacl-main.232.pdf) | NAACL-HLT | 2022 | [Github](https://github.com/Alibaba-NLP/KB-NER/tree/main/ITA) 
- [CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9859972) | ICME | 2022 |  
- [Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition](https://dl.acm.org/doi/10.1145/3503161.3548427) | ACM Multimedia | 2022 |  
- [Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER](https://dl.acm.org/doi/10.1145/3503161.3548228) | ACM Multimedia | 2022 | [Github](https://github.com/1429904852/R-GCN) 
- [Named Entity and Relation Extraction with Multi-Modal Retrieval](https://arxiv.org/pdf/2212.01612.pdf) | EMNLP | 2022 | [Github](https://github.com/modelscope/AdaSeq/tree/master/examples/MoRe) 
- [Joint Multimodal Entity-Relation Extraction Based on Edge-enhanced Graph Alignment Network and Word-pair Relation Tagging](https://arxiv.org/pdf/2211.15028.pdf) | AAAI | 2023 | [Github](https://github.com/YuanLi95/EEGA-for-JMERE) 
- [A Novel Framework for Multimodal Named Entity Recognition with Multi-level Alignments](https://arxiv.org/pdf/2305.08372.pdf) | arXiv | 2023 
+| **Title** | **Venue** | **Year** | **Code** |
+|---|---|---|---|
+| [Multimodal Named Entity Recognition for Short Social Media Posts](https://www.aclweb.org/anthology/N18-1078.pdf) | NAACL-HLT | 2018 |  |
+| [Adaptive Co-attention Network for Named Entity Recognition in Tweets](https://ojs.aaai.org/index.php/AAAI/article/view/11962/11821) | AAAI | 2018 |  |
+| [Visual Attention Model for Name Tagging in Multimodal Social Media](https://www.aclweb.org/anthology/P18-1185.pdf) | ACL | 2018 |  |
+| [Aiding Intra-Text Representations with Visual Context for Multimodal Named Entity Recognition](https://arxiv.org/pdf/1904.01356.pdf) | ICDAR | 2019 |  |
+| [Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://www.aclweb.org/anthology/2020.acl-main.306.pdf) | ACL | 2020 | [Github](https://github.com/jefferyYu/UMT) |
+| [Object-Aware Multimodal Named Entity Recognition in Social Media Posts With Adversarial Learning](https://ieeexplore.ieee.org/document/9154571/) | IEEE Trans. Multim. | 2021 |  |
+| [RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER](https://arxiv.org/pdf/2102.02967.pdf) | AAAI | 2021 | [Github](https://github.com/Multimodal-NER/RpBERT) |
+| [Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://ojs.aaai.org/index.php/AAAI/article/view/17687) | AAAI | 2021 | [Github](https://github.com/TransformersWsz/UMGF) |
+| [MNRE: A Challenge Multimodal Dataset for Neural Relation Extraction with Visual Evidence in Social Media Posts](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428274) | ICME | 2021 | [Github](https://github.com/thecharm/MNRE) |
+| [PromptMNER: Prompt-Based Entity-Related Visual Clue Extraction and Integration for Multimodal Named Entity Recognition](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_24) | DASFAA | 2022 |  |
+| [CWI: A multimodal deep learning approach for named entity recognition from social media using character, word and image features](https://link.springer.com/article/10.1007/s00521-021-06488-4) | Neural Comput. Appl. | 2022 |  |
+| [MAF: A General Matching and Alignment Framework for Multimodal Named Entity Recognition](https://dl.acm.org/doi/10.1145/3488560.3498475) | WSDM | 2022 | [Github](https://github.com/xubodhu/MAF) |
+| [Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction](https://arxiv.org/pdf/2205.03521.pdf) | arXiv | 2022 | [Github](https://github.com/zjunlp/HVPNeT) |
+| [ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition](https://www.aclanthology.org/2022.naacl-main.232.pdf) | NAACL-HLT | 2022 | [Github](https://github.com/Alibaba-NLP/KB-NER/tree/main/ITA) |
+| [CAT-MNER: Multimodal Named Entity Recognition with Knowledge-Refined Cross-Modal Attention](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9859972) | ICME | 2022 |  |
+| [Query Prior Matters: A MRC Framework for Multimodal Named Entity Recognition](https://dl.acm.org/doi/10.1145/3503161.3548427) | ACM Multimedia | 2022 |  |
+| [Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER](https://dl.acm.org/doi/10.1145/3503161.3548228) | ACM Multimedia | 2022 | [Github](https://github.com/1429904852/R-GCN) |
+| [Named Entity and Relation Extraction with Multi-Modal Retrieval](https://arxiv.org/pdf/2212.01612.pdf) | EMNLP | 2022 | [Github](https://github.com/modelscope/AdaSeq/tree/master/examples/MoRe) |
+| [Joint Multimodal Entity-Relation Extraction Based on Edge-enhanced Graph Alignment Network and Word-pair Relation Tagging](https://arxiv.org/pdf/2211.15028.pdf) | AAAI | 2023 | [Github](https://github.com/YuanLi95/EEGA-for-JMERE) |
+| [A Novel Framework for Multimodal Named Entity Recognition with Multi-level Alignments](https://arxiv.org/pdf/2305.08372.pdf) | arXiv | 2023 |  |
+| [Grounded Multimodal Named Entity Recognition on Social Media](https://aclanthology.org/2023.acl-long.508.pdf) | ACL | 2023 | [Github](https://github.com/NUSTM/GMNER) |
 
 
 
