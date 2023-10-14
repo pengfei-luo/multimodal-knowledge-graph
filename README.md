@@ -48,32 +48,40 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [Multi-modal Contrastive Representation Learning for Entity Alignment](https://www.aclanthology.org/2022.coling-1.227.pdf) | COLING | 2022 | [Github](https://github.com/lzxlin/MCLEA) 
  [Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment](https://dl.acm.org/doi/10.1145/3543507.3583328) | WWW | 2023 | [Github](https://github.com/xiaoqian19940510/ACK-MMEA) 
  [Leveraging multimodal features for knowledge graph entity alignment based on dynamic self-attention networks](https://linkinghub.elsevier.com/retrieve/pii/S0957417423008655) | Expert Systems with Applications | 2023 | [Github](https://github.com/Brown-Q/DSEA) 
- [Probing the Impacts of Visual Context in Multimodal Entity Alignment](https://link.springer.com/article/10.1007/s41019-023-00208-9) | Data Sci. Eng. | 2023 
-[MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid](https://arxiv.org/abs/2212.14454) | ACM Multimedia | 2023 | [Github](https://github.com/zjukg/MEAformer) 
-[Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651) | arXiv | 2023 |  
-[Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210) | ISWC | 2023 | [Github](https://github.com/zjukg/UMAEA) 
+ [Probing the Impacts of Visual Context in Multimodal Entity Alignment](https://link.springer.com/article/10.1007/s41019-023-00208-9) | Data Sci. Eng. | 2023 |  
+ [MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid](https://arxiv.org/abs/2212.14454) | ACM Multimedia | 2023 | [Github](https://github.com/zjukg/MEAformer) 
+ [Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651) | arXiv | 2023 |  
+ [Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210) | ISWC | 2023 | [Github](https://github.com/zjukg/UMAEA) 
+ [Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment](https://arxiv.org/abs/2310.06365) | arXiv | 2023 | [Github](https://github.com/xiaoqian19940510/MoAlign) 
+
+
 
 
 
 ## Multimodal Entity Linking
-| Title | Venue | Year | Code |
-|---|---|---|---|
-| [Multimodal Named Entity Disambiguation for Noisy Social Media Posts](https://www.aclweb.org/anthology/P18-1186.pdf) | ACL | 2018 |  |
-| [Building a Multimodal Entity Linking Dataset From Tweets](https://www.aclweb.org/anthology/2020.lrec-1.528.pdf) | LREC | 2020 | [Github](https://github.com/OA256864/MEL_Tweets) |
-| [Multimodal Entity Linking for Tweets](https://arxiv.org/pdf/2104.03236.pdf) | ECIR | 2020 | [Github](https://github.com/OA256864/MEL_Tweets) |
-| [Attention-Based Multimodal Entity Linking with High-Quality Images](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_35) | DASFAA | 2021 |  |
-| [Weibo-MEL, Wikidata-MEL and Richpedia-MEL: Multimodal Entity Linking Benchmark Datasets](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_27) | CCKS | 2021 | [Github](https://github.com/seukgcode/MELBench) |
-| [Multimodal Entity Linking: A New Dataset and A Baseline](https://dl.acm.org/doi/10.1145/3474085.3475400) | ACM Multimedia | 2021 | [Github](https://jingrug.github.io/research/M3EL) |
-| [Visual Entity Linking via Multi-modal Learning](https://direct.mit.edu/dint/article-pdf/4/1/1/1985058/dint_a_00114.pdf) | Data Intell. | 2022 |  |
-| [WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types](https://www.aclanthology.org/2022.acl-long.328.pdf) | ACL | 2022 | [Github](https://github.com/wangxw5/wikiDiverse) |
-| [Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training](https://dl.acm.org/doi/10.1145/3477495.3531867) | SIGIR | 2022 | [Github](https://github.com/seukgcode/MEL-GHMFC) |
-| [Multimodal Entity Linking with Mixed Fusion Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_45) | DASFAA | 2022 | [Github](https://github.com/aanonymity/mert-mel) |
-| [Multimodal Knowledge Learning for Named Entity Disambiguation](https://aclanthology.org/2022.findings-emnlp.230.pdf) | EMNLP-findings | 2022 |  |
-| [AMELI: Enhancing Multimodal Entity Linking with Fine-Grained Attributes](https://arxiv.org/pdf/2305.14725.pdf) | arXiv | 2023 |  |
-| [Multi-Grained Multimodal Interaction Network for Entity Linking](https://arxiv.org/pdf/2307.09721.pdf) | KDD | 2023 | [Github](https://github.com/pengfei-luo/MIMIC) |
-| [Benchmarking Diverse-Modal Entity Linking with Generative Models](https://arxiv.org/pdf/2305.17337.pdf) | ACL-findings | 2023 |  |
-| [Generative Multimodal Entity Linking](https://arxiv.org/pdf/2306.12725.pdf) | arXiv | 2023 | [Github](https://github.com/HITsz-TMG/GEMEL) |
-| [Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities](https://arxiv.org/pdf/2302.11154.pdf) | ICCV | 2023 | [Github](https://github.com/open-vision-language/oven) |
+ **Title** | **Venue** | **Year** | **Code** 
+---|---|---|---
+ [Multimodal Named Entity Disambiguation for Noisy Social Media Posts](https://www.aclweb.org/anthology/P18-1186.pdf) | ACL | 2018 |  
+ [Building a Multimodal Entity Linking Dataset From Tweets](https://www.aclweb.org/anthology/2020.lrec-1.528.pdf) | LREC | 2020 | [Github](https://github.com/OA256864/MEL_Tweets) 
+ [Multimodal Entity Linking for Tweets](https://arxiv.org/pdf/2104.03236.pdf) | ECIR | 2020 | [Github](https://github.com/OA256864/MEL_Tweets) 
+ [Attention-Based Multimodal Entity Linking with High-Quality Images](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_35) | DASFAA | 2021 |  
+ [Weibo-MEL, Wikidata-MEL and Richpedia-MEL: Multimodal Entity Linking Benchmark Datasets](https://link.springer.com/chapter/10.1007/978-981-16-6471-7_27) | CCKS | 2021 | [Github](https://github.com/seukgcode/MELBench) 
+ [Multimodal Entity Linking: A New Dataset and A Baseline](https://dl.acm.org/doi/10.1145/3474085.3475400) | ACM Multimedia | 2021 | [Github](https://jingrug.github.io/research/M3EL) 
+ [Visual Entity Linking via Multi-modal Learning](https://direct.mit.edu/dint/article-pdf/4/1/1/1985058/dint_a_00114.pdf) | Data Intell. | 2022 |  
+ [WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types](https://www.aclanthology.org/2022.acl-long.328.pdf) | ACL | 2022 | [Github](https://github.com/wangxw5/wikiDiverse) 
+ [Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training](https://dl.acm.org/doi/10.1145/3477495.3531867) | SIGIR | 2022 | [Github](https://github.com/seukgcode/MEL-GHMFC) 
+ [Multimodal Entity Linking with Mixed Fusion Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_45) | DASFAA | 2022 | [Github](https://github.com/aanonymity/mert-mel) 
+ [Multimodal Knowledge Learning for Named Entity Disambiguation](https://aclanthology.org/2022.findings-emnlp.230.pdf) | EMNLP-findings | 2022 |  
+ [AMELI: Enhancing Multimodal Entity Linking with Fine-Grained Attributes](https://arxiv.org/pdf/2305.14725.pdf) | arXiv | 2023 |  
+ [Multi-Grained Multimodal Interaction Network for Entity Linking](https://arxiv.org/pdf/2307.09721.pdf) | KDD | 2023 | [Github](https://github.com/pengfei-luo/MIMIC) 
+ [Benchmarking Diverse-Modal Entity Linking with Generative Models](https://arxiv.org/pdf/2305.17337.pdf) | ACL-findings | 2023 |  
+ [Generative Multimodal Entity Linking](https://arxiv.org/pdf/2306.12725.pdf) | arXiv | 2023 | [Github](https://github.com/HITsz-TMG/GEMEL) 
+ [Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities](https://arxiv.org/pdf/2302.11154.pdf) | ICCV | 2023 | [Github](https://github.com/open-vision-language/oven) 
+ [DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking](https://arxiv.org/abs/2310.05589) | ACM Multimedia | 2023 | [Github](https://github.com/starreeze/drin) 
+ [MMEL: A Joint Learning Framework for Multi-Mention Entity Linking](https://proceedings.mlr.press/v216/yang23d.html) | UAI | 2023 | [Github](https://github.com/ycm094/MMEL-main) 
+
+
+
 
 
 
