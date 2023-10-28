@@ -115,7 +115,8 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [A Novel Framework for Multimodal Named Entity Recognition with Multi-level Alignments](https://arxiv.org/pdf/2305.08372.pdf) | arXiv | 2023 |  
  [Grounded Multimodal Named Entity Recognition on Social Media](https://aclanthology.org/2023.acl-long.508.pdf) | ACL | 2023 | [Github](https://github.com/NUSTM/GMNER) 
  [MPMRC-MNER: A Unified MRC framework for Multimodal Named Entity Recognition based Multimodal Prompt](https://dl.acm.org/doi/10.1145/3583780.3614975) | CIKM | 2023 |  
- [MGICL: Multi-Grained Interaction Contrastive Learning for Multimodal Named Entity Recognition](https://dl.acm.org/doi/10.1145/3583780.3614967) | CIKM | 2023 
+ [MGICL: Multi-Grained Interaction Contrastive Learning for Multimodal Named Entity Recognition](https://dl.acm.org/doi/10.1145/3583780.3614967) | CIKM | 2023 |  
+ [Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction](https://arxiv.org/pdf/2310.16822.pdf) | ACM Multimedia | 2023 
 
 
 
