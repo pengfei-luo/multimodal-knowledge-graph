@@ -53,6 +53,7 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [Revisit and Outstrip Entity Alignment: A Perspective of Generative Models](https://arxiv.org/abs/2305.14651) | arXiv | 2023 |  
  [Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment](https://arxiv.org/abs/2307.16210) | ISWC | 2023 | [Github](https://github.com/zjukg/UMAEA) 
  [Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment](https://arxiv.org/abs/2310.06365) | arXiv | 2023 | [Github](https://github.com/xiaoqian19940510/MoAlign) 
+ [Universal Multi-modal Entity Alignment via Iteratively Fusing Modality Similarity Paths](https://arxiv.org/abs/2310.05364) | arXiv | 2023 | [Github](https://github.com/blzhu0823/PathFusion)
 
 
 
