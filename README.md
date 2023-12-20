@@ -60,7 +60,7 @@ This repository is a collection of resources on multimodal knowledge graph, incl
 
 
 ## Multimodal Entity Linking
- **Title** | **Venue** | **Year** | **Code** 
+ Title | Venue | Year | Code 
 ---|---|---|---
  [Multimodal Named Entity Disambiguation for Noisy Social Media Posts](https://www.aclweb.org/anthology/P18-1186.pdf) | ACL | 2018 |  
  [Building a Multimodal Entity Linking Dataset From Tweets](https://www.aclweb.org/anthology/2020.lrec-1.528.pdf) | LREC | 2020 | [Github](https://github.com/OA256864/MEL_Tweets) 
@@ -80,6 +80,9 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities](https://arxiv.org/pdf/2302.11154.pdf) | ICCV | 2023 | [Github](https://github.com/open-vision-language/oven) 
  [DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking](https://arxiv.org/abs/2310.05589) | ACM Multimedia | 2023 | [Github](https://github.com/starreeze/drin) 
  [MMEL: A Joint Learning Framework for Multi-Mention Entity Linking](https://proceedings.mlr.press/v216/yang23d.html) | UAI | 2023 | [Github](https://github.com/ycm094/MMEL-main) 
+ [S2abEL: A Dataset for Entity Linking from Scientific Tables](https://aclanthology.org/2023.emnlp-main.186/) | EMNLP-findings | 2023 | [Github](https://github.com/allenai/S2abEL/tree/main) 
+
+
 
 
 
@@ -92,7 +95,7 @@ This repository is a collection of resources on multimodal knowledge graph, incl
 
 ## Multimodal Named Entity Recognition
 
- **Title** | **Venue** | **Year** | **Code** 
+ Title | Venue | Year | Code 
 ---|---|---|---
  [Multimodal Named Entity Recognition for Short Social Media Posts](https://www.aclweb.org/anthology/N18-1078.pdf) | NAACL-HLT | 2018 |  
  [Adaptive Co-attention Network for Named Entity Recognition in Tweets](https://ojs.aaai.org/index.php/AAAI/article/view/11962/11821) | AAAI | 2018 |  
@@ -120,6 +123,11 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [Prompt Me Up: Unleashing the Power of Alignments for Multimodal Entity and Relation Extraction](https://arxiv.org/pdf/2310.16822.pdf) | ACM Multimedia | 2023 |  
  [Fine-Grained Multimodal Named Entity Recognition and Grounding with a Generative Framework](https://dl.acm.org/doi/10.1145/3581783.3612322) | ACM Multimedia | 2023 | [Github](https://github.com/NUSTM/FMNERG) 
  [MCG-MNER: A Multi-Granularity Cross-Modality Generative Framework for Multimodal NER with Instruction](https://dl.acm.org/doi/10.1145/3581783.3612470) | ACM Multimedia | 2023 | [Github](https://github.com/jetwu-create/MCG-MNER) 
+ [Prompting ChatGPT in MNER: Enhanced Multimodal Named Entity Recognition with Auxiliary Refined Knowledge](https://aclanthology.org/2023.findings-emnlp.184.pdf) | EMNLP-findings | 2023 | [Github](https://github.com/JinYuanLi0012/PGIM) 
+ [In-context Learning for Few-shot Multimodal Named Entity Recognition](https://aclanthology.org/2023.findings-emnlp.196/) | EMNLP-findings | 2023 |  
+ [ESPVR: Entity Spans Position Visual Regions for Multimodal Named Entity Recognition](https://aclanthology.org/2023.findings-emnlp.522/) | EMNLP-findings | 2023 
+
+
 
 
 
