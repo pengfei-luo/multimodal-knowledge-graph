@@ -80,7 +80,7 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities](https://arxiv.org/pdf/2302.11154.pdf) | ICCV | 2023 | [Github](https://github.com/open-vision-language/oven) 
  [DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking](https://arxiv.org/abs/2310.05589) | ACM Multimedia | 2023 | [Github](https://github.com/starreeze/drin) 
  [MMEL: A Joint Learning Framework for Multi-Mention Entity Linking](https://proceedings.mlr.press/v216/yang23d.html) | UAI | 2023 | [Github](https://github.com/ycm094/MMEL-main) 
- [S2abEL: A Dataset for Entity Linking from Scientific Tables](https://aclanthology.org/2023.emnlp-main.186/) | EMNLP-findings | 2023 | [Github](https://github.com/allenai/S2abEL/tree/main) 
+ [S2abEL: A Dataset for Entity Linking from Scientific Tables](https://aclanthology.org/2023.emnlp-main.186/) | EMNLP | 2023 | [Github](https://github.com/allenai/S2abEL/tree/main) 
 
 
 
