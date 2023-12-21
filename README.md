@@ -17,7 +17,7 @@ This repository is a collection of resources on multimodal knowledge graph, incl
 
 
 ## Multimodal Knowledge Graph Completion
- **Title** | **Venue** | **Year** | **Code** 
+ Title | Venue | Year | Code 
 ---|---|---|---
  [Image-embodied Knowledge Representation Learning](https://arxiv.org/pdf/1609.07028.pdf) | IJICA | 2016 | [Github](https://github.com/xrb92/IKRL) 
  [KG-BERT: BERT for Knowledge Graph Completion](https://arxiv.org/pdf/1909.03193.pdf) | arXiv | 2019 | [Github](https://github.com/yao8839836/kg-bert) 
@@ -32,6 +32,8 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf) | NIPS | 2022 | [Github](https://github.com/Lion-ZS/OTKGE) 
  [Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion](https://dl.acm.org/doi/10.1145/3503161.3548388) | ACM Multimedia | 2022 |  
  [MPKGAC: Multimodal Product Attribute Completion in E-commerce](https://dl.acm.org/doi/10.1145/3543873.3584623) | WWW (Companion Volume) | 2023 | [Github](https://github.com/wk1998/MPKGAC) 
+ [LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation]() | AAAI | 2024 
+ 
 
 
 
