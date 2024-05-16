@@ -32,7 +32,8 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf) | NIPS | 2022 | [Github](https://github.com/Lion-ZS/OTKGE) 
  [Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion](https://dl.acm.org/doi/10.1145/3503161.3548388) | ACM Multimedia | 2022 |  
  [MPKGAC: Multimodal Product Attribute Completion in E-commerce](https://dl.acm.org/doi/10.1145/3543873.3584623) | WWW (Companion Volume) | 2023 | [Github](https://github.com/wk1998/MPKGAC) 
- [LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation]() | AAAI | 2024 
+ [LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation](https://ojs.aaai.org/index.php/AAAI/article/view/28744) | AAAI | 2024 |  
+ [Zero-Shot Relational Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2404.06220) | arXiv | 2024 
  
 
 
@@ -84,6 +85,7 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [MMEL: A Joint Learning Framework for Multi-Mention Entity Linking](https://proceedings.mlr.press/v216/yang23d.html) | UAI | 2023 | [Github](https://github.com/ycm094/MMEL-main) 
  [S2abEL: A Dataset for Entity Linking from Scientific Tables](https://aclanthology.org/2023.emnlp-main.186/) | EMNLP | 2023 | [Github](https://github.com/allenai/S2abEL/tree/main) 
  [A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking](https://arxiv.org/abs/2312.11816) | AAAI | 2024 | [Github](https://github.com/season1blue/DWE) 
+ [DWE+: Dual-Way Matching Enhanced Framework for Multimodal Entity Linking](https://arxiv.org/abs/2404.04818) |  | 2024 | [Github](https://github.com/season1blue/DWET) 
 
 
 
