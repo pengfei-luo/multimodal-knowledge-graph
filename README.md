@@ -26,14 +26,20 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [Is Visual Context Really Helpful for Knowledge Graph? A Representation Learning Perspective](https://dl.acm.org/doi/10.1145/3474085.3475470) | ACM Multimedia | 2021 | [Github](https://github.com/wangmengsd/RSME) 
  [Endowing Language Models with Multimodal Knowledge Graph Representations](https://arxiv.org/pdf/2206.13163.pdf) | arXiv | 2022 | [Github](https://github.com/iacercalixto/visualsem-kg) 
  [Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion](https://dl.acm.org/doi/10.1145/3545573) | TOMM | 2022 | [Github](https://github.com/broliang/HRGAT) 
+ [Contrastive Multi-Modal Knowledge Graph Representation Learning](https://ieeexplore.ieee.org/document/9942333) | TKDE | 2022 |  
  [IMKGA-SM: Interpretable Multimodal Knowledge Graph Answer Prediction via Sequence Modeling](https://arxiv.org/pdf/2301.02445.pdf) | arXiv | 2022 |  
  [MMKRL: A robust embedding approach for multi-modal knowledge graph representation learning](https://link.springer.com/article/10.1007/s10489-021-02693-9) | Appl. Intell. | 2022 |  
  [MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion](https://aclanthology.org/2022.emnlp-main.719.pdf) | EMNLP | 2022 | [Github](https://github.com/OreOZhao/MoSE4MKGC) 
  [OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport](https://proceedings.neurips.cc/paper_files/paper/2022/file/ffdb280e7c7b4c4af30e04daf5a84b98-Paper-Conference.pdf) | NIPS | 2022 | [Github](https://github.com/Lion-ZS/OTKGE) 
+ [Multimodal Knowledge Learning for Named Entity Disambiguation](https://aclanthology.org/2022.findings-emnlp.230.pdf) | EMNLP-findings | 2022 |  
  [Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion](https://dl.acm.org/doi/10.1145/3503161.3548388) | ACM Multimedia | 2022 |  
+ [VISTA: Visual-Textual Knowledge Graph Representation Learning](https://aclanthology.org/2023.findings-emnlp.488/) | EMNLP-findings | 2023 | [Github](https://github.com/bdi-lab/VISTA) 
+ [TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio](https://dl.acm.org/doi/abs/10.1145/3581783.3612266) | ACM Multimedia | 2023 | [Github](https://github.com/Darkbblue/tiva-kg) 
  [MPKGAC: Multimodal Product Attribute Completion in E-commerce](https://dl.acm.org/doi/10.1145/3543873.3584623) | WWW (Companion Volume) | 2023 | [Github](https://github.com/wk1998/MPKGAC) 
  [LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation](https://ojs.aaai.org/index.php/AAAI/article/view/28744) | AAAI | 2024 |  
- [Zero-Shot Relational Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2404.06220) | arXiv | 2024 
+ [Zero-Shot Relational Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2404.06220) | arXiv | 2024 |  
+ [MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2404.09468) | arXiv | 2024 |  
+ [Un-leashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2402.15444) | LREC-COLING | 2024 | [Github](https://github.com/zjukg/AdaMF-MAT)  
  
 
 
@@ -75,7 +81,6 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types](https://www.aclanthology.org/2022.acl-long.328.pdf) | ACL | 2022 | [Github](https://github.com/wangxw5/wikiDiverse) 
  [Multimodal Entity Linking with Gated Hierarchical Fusion and Contrastive Training](https://dl.acm.org/doi/10.1145/3477495.3531867) | SIGIR | 2022 | [Github](https://github.com/seukgcode/MEL-GHMFC) 
  [Multimodal Entity Linking with Mixed Fusion Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_45) | DASFAA | 2022 | [Github](https://github.com/aanonymity/mert-mel) 
- [Multimodal Knowledge Learning for Named Entity Disambiguation](https://aclanthology.org/2022.findings-emnlp.230.pdf) | EMNLP-findings | 2022 |  
  [AMELI: Enhancing Multimodal Entity Linking with Fine-Grained Attributes](https://arxiv.org/pdf/2305.14725.pdf) | arXiv | 2023 |  
  [Multi-Grained Multimodal Interaction Network for Entity Linking](https://arxiv.org/pdf/2307.09721.pdf) | KDD | 2023 | [Github](https://github.com/pengfei-luo/MIMIC) 
  [Benchmarking Diverse-Modal Entity Linking with Generative Models](https://arxiv.org/pdf/2305.17337.pdf) | ACL-findings | 2023 |  
@@ -86,6 +91,8 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [S2abEL: A Dataset for Entity Linking from Scientific Tables](https://aclanthology.org/2023.emnlp-main.186/) | EMNLP | 2023 | [Github](https://github.com/allenai/S2abEL/tree/main) 
  [A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking](https://arxiv.org/abs/2312.11816) | AAAI | 2024 | [Github](https://github.com/season1blue/DWE) 
  [DWE+: Dual-Way Matching Enhanced Framework for Multimodal Entity Linking](https://arxiv.org/abs/2404.04818) |  | 2024 | [Github](https://github.com/season1blue/DWET) 
+ [Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking](https://arxiv.org/pdf/2406.01934) | ACL-findings | 2024 | [Github](https://github.com/zhangzef/OT-MEL) 
+ [OVEL: Large Language Model as Memory Manager for Online Video Entity Linking](https://arxiv.org/abs/2403.01411) | arXiv | 2024 |  
 
 
 
