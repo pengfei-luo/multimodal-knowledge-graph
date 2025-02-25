@@ -36,6 +36,7 @@ This repository is a collection of resources on multimodal knowledge graph, incl
  [VISTA: Visual-Textual Knowledge Graph Representation Learning](https://aclanthology.org/2023.findings-emnlp.488/) | EMNLP-findings | 2023 | [Github](https://github.com/bdi-lab/VISTA) 
  [TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio](https://dl.acm.org/doi/abs/10.1145/3581783.3612266) | ACM Multimedia | 2023 | [Github](https://github.com/Darkbblue/tiva-kg) 
  [MPKGAC: Multimodal Product Attribute Completion in E-commerce](https://dl.acm.org/doi/10.1145/3543873.3584623) | WWW (Companion Volume) | 2023 | [Github](https://github.com/wk1998/MPKGAC) 
+ [Reviving the Context: Camera Trap Species Classification as Link Prediction on Multimodal Knowledge Graphs](https://arxiv.org/pdf/2401.00608) | CIKM | 2023 | [Github](https://github.com/OSU-NLP-Group/COSMO/)
  [LAFA: Multimodal Knowledge Graph Completion with Link Aware Fusion and Aggregation](https://ojs.aaai.org/index.php/AAAI/article/view/28744) | AAAI | 2024 |  
  [Zero-Shot Relational Learning for Multimodal Knowledge Graphs](https://arxiv.org/abs/2404.06220) | arXiv | 2024 |  
  [MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2404.09468) | arXiv | 2024 |  
